@@ -11,8 +11,20 @@ layout: default
 ## This is a small header
 
 
+## Figure 1. Quiz Effectiveness Rating Plot:
+<img src="static/imgs/QER_1.png" alt="Quiz Effectiveness Rating plot. "  width="500"/>
 
+## Figure 2. COMP110 Student's Understanding Level Plot:
+<img src="static/imgs/UL_2.png" alt="Understanding Level Plot. "  width="500"/>
 
+## Figure 3. Difficulty Level Plot:
+<img src="static/imgs/DL_3.png" alt="Difficulty Level plot. "  width="500"/>
+
+## Figure 4. Quiz Effectiveness vs Student's Understanding Plot:
+<img src="static/imgs/EvU_4.png" alt="Quiz Effectiveness vs Understanding plot. "  width="500"/>
+
+## Figure 5. Quiz Effectiveness vs Difficulty Level Plot:
+<img src="static/imgs/EvD_5.png" alt="Quiz Effectiveness vs Difficulty Level plot. "  width="500"/>
 
 
 ## Our Project Analysis:
