@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# Diya and Shreshta's EX09 Data Analysis Website!
+# Diya's EX09 Data Analysis Website!
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
